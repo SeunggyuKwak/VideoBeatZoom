@@ -8,7 +8,10 @@
 <br/>
 
 ## 사용 예시
-<video width="600" controls> <source src="./clips/Video-zoomed.mp4" type="video/mp4"> </video>  
+<video controls>
+  <source src="./clips/Drums.mp3" type="video/mp4">
+</video>
+
 [원본](./clips/Video.mp4)
 
 <br/>
@@ -38,10 +41,14 @@
 <code>Input audio location</code>란에는 미리 특정 악기만 따로 분리한 오디오의 경로를 입력해야 한다.  
 (악기 분리 프로그램 예시 : [Spleeter(무료)](https://github.com/deezer/spleeter), [Ultimate Vocal Remover(무료)](https://github.com/Anjok07/ultimatevocalremovergui), [Davinci Resolve Studio - Music Remixer(유료)](https://www.blackmagicdesign.com/products/davinciresolve/studio))
 
+### 원본
+<audio controls>
+  <source src="./clips/Original.mp3" type="audio/mp3">
+</audio>
 
-|원본|외부 프로그램 처리 후|
-|---|---|
-|<audio controls> <source src="./clips/Original.mp3" type="audio/mp3"> </audio>|<audio controls> <source src="./clips/Drums.mp3" type="audio/mp3"> </audio>|
-
+### 외부 프로그램 처리 후
+<audio controls>
+  <source src="./clips/Drums.mp3" type="audio/mp3">
+</audio>
 
 추후에 프로그램 내부에서 자체적으로 특정 악기를 분리하는 기능을 추가할 예정이다.

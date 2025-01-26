@@ -8,10 +8,7 @@
 <br/>
 
 ## 사용 예시
-<video controls>
-  <source src="https://youtu.be/LyBvaqn7ue0" type="video/mp4">
-</video>
-
+[처리 후](https://youtu.be/LyBvaqn7ue0)
 [원본](https://youtu.be/h-fTRnXhC4M)
 
 <br/>

@@ -9,10 +9,10 @@
 
 ## 사용 예시
 <video controls>
-  <source src="./clips/Drums.mp3" type="video/mp4">
+  <source src="https://youtu.be/LyBvaqn7ue0" type="video/mp4">
 </video>
 
-[원본](./clips/Video.mp4)
+[원본](https://youtu.be/h-fTRnXhC4M)
 
 <br/>
 
